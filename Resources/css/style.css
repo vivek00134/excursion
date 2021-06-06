@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: Verdana, sans-serif;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+.footer {
+  text-align: right;
+}
